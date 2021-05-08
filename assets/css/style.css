@@ -3,9 +3,10 @@
     margin-top: 30px; 
     color: chartreuse;
     transition: .5s;
+    cursor: pointer;
 }
 nav ul li:hover{
     color: orange;
     transition: .5s;
-   
+    cursor: pointer;
 }
